@@ -1,0 +1,11 @@
+django
+django-heroku
+sklearn
+pandas
+xgboost
+nltk
+langdetect
+numpy
+whitenoise
+gunicorn
+dill
